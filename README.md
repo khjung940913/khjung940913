@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Kristopher H. Jung
 
-<!--
-**khjung940913/khjung940913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a versatile software engineer with a strong foundation in building and scaling diverse backend systems. I specialize in distributed architectures, data pipelines, and performance-optimized services. My work spans financial data processing, online advertising systems, and developer tooling.
 
-Here are some ideas to get you started:
+I thrive in collaborative environments and bring a pragmatic approach to solving complex engineering problems. I'm also passionate about mentoring and contributing to team growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Languages & Tools: C#, Java, Python, SQL, Angular, AWS, Databricks, Snowflake, Kafka
+- 🧠 Interests: API design, distributed systems, test automation, cloud-native development
+- 📍 Based in: Plano, Texas
+
+## 📫 Let's Connect
+
+- [📄 Resume](/resume.pdf)
+- [💻 GitHub](https://github.com/khjung940913)
+- [🔗 LinkedIn](https://www.linkedin.com/in/khjung940913/)
+- [✉️ Email Me](mailto:kristopher.jung.dev@gmail.com)
+
+---
