@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Kristopher H. Jung
 
-I'm a versatile software engineer with a strong foundation in building and scaling diverse backend systems. I specialize in distributed architectures, data pipelines, and performance-optimized services. My work spans financial data processing, online advertising systems, and developer tooling.
+I'm a versatile software engineer with a strong foundation in building and scaling diverse backend systems.
 
-I thrive in collaborative environments and bring a pragmatic approach to solving complex engineering problems. I'm also passionate about mentoring and contributing to team growth.
-
-- 🔧 Languages & Tools: C#, Java, Python, SQL, Angular, AWS, Databricks, Snowflake, Kafka
+- 🔧 Languages & Tools: C#, .Net, Java, Spring, Python, SQL, Angular, AWS, Databricks, Snowflake, Kafka
 - 🧠 Interests: API design, distributed systems, test automation, cloud-native development
 - 📍 Based in: Plano, Texas
 
@@ -12,7 +10,7 @@ I thrive in collaborative environments and bring a pragmatic approach to solving
 
 - [📄 Resume](/Kristopher_Jung_Software_Engineer.pdf)
 - [💻 GitHub](https://github.com/khjung940913)
+- [💻 MS-Learn](https://learn.microsoft.com/en-us/users/kristopherjung-0684/transcript/7xjwuyjwr31zw4d)
 - [🔗 LinkedIn](https://www.linkedin.com/in/khjung940913/)
 - [✉️ Email Me](mailto:kristopher.jung.dev@gmail.com)
-
 ---
