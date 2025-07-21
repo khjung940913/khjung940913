@@ -10,7 +10,7 @@ I thrive in collaborative environments and bring a pragmatic approach to solving
 
 ## 📫 Let's Connect
 
-- [📄 Resume](/resume.pdf)
+- [📄 Resume](/Kristopher_Jung_Software_Engineer.pdf)
 - [💻 GitHub](https://github.com/khjung940913)
 - [🔗 LinkedIn](https://www.linkedin.com/in/khjung940913/)
 - [✉️ Email Me](mailto:kristopher.jung.dev@gmail.com)
